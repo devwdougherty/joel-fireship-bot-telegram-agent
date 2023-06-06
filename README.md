@@ -30,6 +30,7 @@ https://www.steamship.com/packages/devwdoughertybot
 https://github.com/orgs/steamship-packages/repositories
 https://github.com/steamship-packages/autogpt-telegram-chatbot
 https://www.steamship.com/workspaces/devwdoughertybot-ja6/packages/devwdoughertybot-ja6/POST/info
+https://www.youtube.com/watch?v=5htSGLCroc8&ab_channel=AIJason
 
 # CLI
 
