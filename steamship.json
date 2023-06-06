@@ -1,9 +1,9 @@
 {
 	"type": "package",
-	"handle": "",
-	"version": "0.0.1",
-	"description": "",
-	"author": "",
+	"handle": "devwdoughertybot",
+	"version": "0.0.3",
+	"description": "Joel, your favorite teacher!",
+	"author": "devwdougherty",
 	"entrypoint": "Unused",
 	"public": true,
 	"plugin": null,
@@ -14,7 +14,7 @@
 		]
 	},
 	"configTemplate": {
-		"telegram_token": {
+		"bot_token": {
 			"type": "string",
 			"description": "The secret token for your Telegram bot",
 			"default": ""
